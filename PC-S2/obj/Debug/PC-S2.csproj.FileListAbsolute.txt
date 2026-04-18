@@ -1,5 +1,0 @@
-C:\Users\USER\source\repos\PC-S2\PC-S2\obj\Debug\PC-S2.csproj.AssemblyReference.cache
-C:\Users\USER\source\repos\PC-S2\PC-S2\obj\Debug\GestorDeTareas.Program.resources
-C:\Users\USER\source\repos\PC-S2\PC-S2\obj\Debug\PC_S2.Properties.Resources.resources
-C:\Users\USER\source\repos\PC-S2\PC-S2\obj\Debug\PC-S2.csproj.GenerateResource.cache
-C:\Users\USER\source\repos\PC-S2\PC-S2\obj\Debug\PC-S2.csproj.CoreCompileInputs.cache

@@ -1,7 +1,0 @@
-C:\Users\USER\source\repos\PC-S2\PC-S2\obj\Debug\net8.0\GestorDeTareas.Program.resources
-C:\Users\USER\source\repos\PC-S2\PC-S2\obj\Debug\net8.0\PC_S2_.Properties.Resources.resources
-C:\Users\USER\source\repos\PC-S2\PC-S2\obj\Debug\net8.0\PC-S2..csproj.GenerateResource.cache
-C:\Users\USER\source\repos\PC-S2\PC-S2\obj\Debug\net8.0\PC-S2..GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\USER\source\repos\PC-S2\PC-S2\obj\Debug\net8.0\PC-S2..AssemblyInfoInputs.cache
-C:\Users\USER\source\repos\PC-S2\PC-S2\obj\Debug\net8.0\PC-S2..AssemblyInfo.cs
-C:\Users\USER\source\repos\PC-S2\PC-S2\obj\Debug\net8.0\PC-S2..csproj.CoreCompileInputs.cache
